@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+git clone git@github.com:t0lia/ansible-template.git
+
+mv ansible-template "$1"
